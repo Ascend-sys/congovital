@@ -1,0 +1,4 @@
+Failed to load resource: net:: ERR_INTERNET_DISCONNECTED
+bootstrap.bundle.min.js: 1  Failed to load resource: net:: ERR_INTERNET_DISCONNECTED
+12Tracking Prevention blocked access to storage for <URL>.
+    inscription.html?username=credi&fullname=credo+kk&email=kutoseemmanuel%40gmail.com&phone=%2B2431996…:1 Unsafe attempt to load URL file:///C:/dev/congovital_updated/congovital/congovital/frontend/html/inscription.html?username=credi&fullname=credo+kk&email=kutoseemmanuel%40gmail.com&phone=%2B2431996048&password=Mariaipala12&confirm-password=Mariaipala12&date-of-birth=1999-01-06&gender=male&role=patient&terms=on from frame with URL file:///C:/dev/congovital_updated/congovital/congovital/frontend/html/inscription.html?username=credi&fullname=credo+kk&email=kutoseemmanuel%40gmail.com&phone=%2B2431996048&password=Mariaipala12&confirm-password=Mariaipala12&date-of-birth=1999-01-06&gender=male&role=patient&terms=on. 'file:' URLs are treated as unique security origins.
